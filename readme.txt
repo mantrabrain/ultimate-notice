@@ -1,10 +1,10 @@
-=== Ultimate Notice===
+=== Ultimate Notice - GDPR Notice for WordPress ===
 Contributors: mantrabrain
 Donate link: http://www.mantrabrain.com/
 Tags: notice, notification, notify, cookie, ultimate, notify
 Requires at least: 3.3
 Requires PHP: 5.2.4
-Tested up to: 5.0.2
+Tested up to: 5.2.1
 Stable tag: 1.0.0
 License: MIT License
 License URI: http://opensource.org/licenses/MIT
